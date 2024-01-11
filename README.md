@@ -42,10 +42,18 @@ Write configuration to components.json. Proceed ? yes
 
 ```
 
-## shadcn install##
+## shadcn install ##
 
 ```json
 npx shadcn-ui@latest add button
+
+```
+
+### Dependency ##
+
+```json
+
+npm install lucide-react
 
 ```
 
