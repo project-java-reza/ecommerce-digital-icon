@@ -42,4 +42,10 @@ Write configuration to components.json. Proceed ? yes
 
 ```
 
-## Dependencies Install ##
+## shadcn install##
+
+```json
+npx shadcn-ui@latest add button
+
+```
+
